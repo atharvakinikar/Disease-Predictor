@@ -11,6 +11,14 @@
 ### Overview :
 The model predicting the disease is trained in using Machine Learning and then using a Framework called FastAPI (like flask) in python,  the model is loaded and hosted on a web hosting service. This then acts as an API that receives and sends predictions and graphs as a result to our main backend server. On the Frontend when the user input the data into the parameters, the data is sent to the backend, and then to the API  which is then predicting the outcome of the model. The result is then displayed on the frontend when received on the server.
 
+### Hosted Link :
+
+#### -- Website :
+[![Link](https://api.iconify.design/bx/bx-link-external.svg?color=white&width=40&height=40)](https://disease-predict-website.herokuapp.com/)
+
+#### -- ML API :
+[![Link](https://api.iconify.design/bx/bx-link-external.svg?color=white&width=40&height=40)](https://disease-predict-api.herokuapp.com/docs)
+
 ### Features :
 
 - Predicts disease by given symptoms and health parameters
